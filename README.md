@@ -65,7 +65,7 @@ A beautiful, modern productivity app built with **React** that combines task man
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flowspace.git
+git clone https://github.com/AlaaAbdullah244/flowspace.git
 cd flowspace
 ```
 
@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * **Report bugs** via GitHub Issues
 * **Request features** via GitHub Discussions
-* **Contact** via email: [your-email@example.com](mailto:your-email@example.com)
+* **Contact** via email: alaaabdullah173@gmail.com
 
 ---
 
