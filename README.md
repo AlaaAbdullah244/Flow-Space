@@ -1,6 +1,4 @@
-Here’s a polished version of your README for **FlowSpace**, formatted for clarity, readability, and professional presentation on GitHub:
 
----
 
 # 🌟 FlowSpace
 
